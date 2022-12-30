@@ -1,4 +1,4 @@
-import board
+import  RPi.GPIO as board
 import neopixel
 pixels = neopixel.NeoPixel(board.D18, 1) #initialize light strip
 
