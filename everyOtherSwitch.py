@@ -9,4 +9,4 @@ while True:
             pixels[x] = (255,0,0)
         else:
             pixels[x] = (0,0,255)
-        mod+=1
+    mod+=1
